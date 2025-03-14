@@ -18,3 +18,15 @@
    2.    You need to run a SQL query to answer these requests. 
    3.    The target audience of this dashboard is top-level management - hence you need to 
          create a presentation to show the insights.
+
+## My Role
+  ### 1. Data Extraction with SQL:
+Utilized MySQL to run queries & pull the necessary data.
+
+### 2. Data Visualization:
+Leveraged Power bi to visualize the input ,output & presenting insights.
+
+### 3. Actionable Insights:
+provided actionable insights & recommendations to assist the management team in making useful decisions.
+
+Through this project, I demonstrated my ability to handle complex data queries & present findings in an engaging & insightful manner.
